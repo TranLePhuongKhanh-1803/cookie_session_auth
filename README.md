@@ -14,5 +14,9 @@ Test Postman: URL: http://localhost:3000/auth/login User: admin Pass: 12345
 ![Postman Test](./public/results/mongodb_register_cookie.png)
 ![Postman Test](./public/results/Postman_postlogin_cookie.png)
 ![Postman Test](./public/results/mongodb_login_cookie.png)
+![Postman Test](./public/results/mongodb_logout_cookie.png)
+![Postman Test](./public/results/Postman_getprofile_cookie_.png)
+![Postman Test](./public/results/Postman_getlogout_cookie_.png)
+
 
 
